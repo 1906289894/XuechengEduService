@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xc-framework-model">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xc-framework-model/target/xc-framework-model.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
